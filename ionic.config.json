@@ -2,5 +2,7 @@
   "name": "LifeIsARide",
   "app_id": "bf1c2253",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
